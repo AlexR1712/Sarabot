@@ -1,0 +1,25 @@
+<aiml version="1.0">
+<category>
+<pattern>SARA</pattern>
+<template>
+<learn>standard/default.aiml</learn>	
+<learn>standard/65percent.aiml</learn>
+<learn>standard/sara.aiml</learn>
+<learn>standard/nombres.aiml</learn>
+<learn>standard/numeros.aiml</learn>
+<learn>standard/sexo.aiml</learn>
+<learn>standard/sara_1.aiml</learn>
+<learn>standard/sara_2.aiml</learn>
+<learn>standard/deportes.aiml</learn>
+<learn>standard/geografia.aiml</learn>
+<learn>standard/inventos.aiml</learn>
+<learn>standard/conocimiento.aiml</learn>
+<learn>standard/chismes.aiml</learn>
+<learn>standard/reptiles.aiml</learn>
+<learn>standard/si-no.aiml</learn>
+<learn>standard/sufijos.aiml</learn>
+<learn>standard/turing.aiml</learn>
+</template>
+</category>
+
+</aiml>
