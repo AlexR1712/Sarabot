@@ -1,1 +1,5 @@
+python-telegram-bot
 python-aiml
+future>=0.15.2
+urllib3>=1.10
+certifi
